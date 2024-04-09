@@ -1,4 +1,4 @@
-# react-authentication
+# Event Newsletter
 
 It is a ReactJs Single Page Application(SPA), made using **create-react-app** tool.
 
