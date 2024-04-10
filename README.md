@@ -1,4 +1,4 @@
-# Event Newsletter
+# Events Newsletter
 
 It is a ReactJs Single Page Application(SPA), made using **create-react-app** tool.
 
